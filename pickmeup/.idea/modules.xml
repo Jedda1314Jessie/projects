@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pickmeup.iml" filepath="$PROJECT_DIR$/.idea/pickmeup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickmeup-email/pickmeup-email.iml" filepath="$PROJECT_DIR$/pickmeup-email/pickmeup-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickmeup-eurekaserver/pickmeup-eurekaserver.iml" filepath="$PROJECT_DIR$/pickmeup-eurekaserver/pickmeup-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickmeup-user/pickmeup-user.iml" filepath="$PROJECT_DIR$/pickmeup-user/pickmeup-user.iml" />
+    </modules>
+  </component>
+</project>
